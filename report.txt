@@ -1,0 +1,13 @@
+ECGNET by sricharn IIT mumbai
+
+Using 11__0.9102
+
+Only on 10th fold
+
+roc_score : 0.9101563184785769
+class wise AUC : [0.91022348 0.88426456 0.9021273  0.93360477 0.92056149]
+
+class wise accuracy: [0.88719371 0.90661119 0.84604716 0.85899214 0.86870088]
+accuracy: 0.8735090152565881
+
+f1 score max -- 0.77124
